@@ -4,6 +4,10 @@ Date: January 21, 2020
 Description: Lab 2: Four-function calculator
 Course: COP3502
  */
+
+
+//This comment is proof of change for GitHub.
+
 import java.util.Scanner;
 
 public class Calculator
